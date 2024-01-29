@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/Hardwired8403/library-management-system.git
    ```
 2. Перейдите в каталог проект:
     ```bash
